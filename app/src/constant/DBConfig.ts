@@ -2,7 +2,7 @@ export interface  Config {
     host:string
 }
 const serverProdution:Config ={
-    host:'http://envite.kinghost.net:21003'
+    host:''
 
 }
 const DevServer:Config ={
